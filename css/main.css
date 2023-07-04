@@ -54,6 +54,7 @@ h3 {font-size: 26px; font-weight: 400; letter-spacing: -1px;}
 .file_link td .category.css {background-color: #00bfdd;}
 .file_link td .category.js {padding: 2px 7px; background-color: #ffca28;}
 .file_link td .category.fig{background-color: #222222; color : rgb(251, 100, 147);}
+.file_link td .category.git{background-color: #222222; color : white;}
 .file_link td a {color: #a69eb0;}
 .file_link td a:hover {color: #766d81;}
 .hidden_text {position: absolute; display: inline-block; text-indent: -9999px;}
